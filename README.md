@@ -1,5 +1,5 @@
 This is a discord clone project,
-being built using React Redux,Mongoose,ExpressJS, and NodeJS which is fully functional which consists of multiple dedicated components.
+being built using React Redux,Mongoose,ExpressJS, and NodeJS which is fully functional which consists of multiple dedicated components and states are managed using React Redux.
 
 #Tasks to do
 1.Build frontend response web application
