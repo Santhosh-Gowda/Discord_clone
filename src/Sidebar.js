@@ -52,7 +52,7 @@ const Sidebar = () => {
                 <h3>San Gowda</h3>
                 <p>#12124ds</p>
             </div>
-            <div className="sidebar__profileIcons__name">
+            <div className="sidebar__profileIcons">
             <MicIcon />
             <HeadsetMicIcon />
             <SettingsIcon />
