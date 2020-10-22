@@ -4,7 +4,7 @@ being built using React Redux,Mongoose,ExpressJS, and NodeJS which is fully func
 #Tasks to do
 1.Build frontend response web application
 a.Sidebar
-b.Chat Section
+b.Chat Box
 2.Configure with firestore
 3.Deploy on firebase
 4.Deprecate firestore
@@ -15,3 +15,4 @@ b.Chat Section
 #Task completed
 1.Build frontend response web application
 a.Sidebar
+b.Chat box
