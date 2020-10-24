@@ -20,6 +20,9 @@
   margin: 20px;
   border-top: 1px solid gray;
   background-color: #474b53;
+  position: fixed;
+  bottom: 0;
+  width: 70%;
 }
 
 .chat__input > form > input {

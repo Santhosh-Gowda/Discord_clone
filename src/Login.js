@@ -9,7 +9,6 @@ const Login = () => {
   };
   return (
     <div className="login">
-      <h2>Login</h2>
       <div className="login__logo">
         <img
           src="https://logovtor.com/wp-content/uploads/2020/07/discord-logo-vector.png"
