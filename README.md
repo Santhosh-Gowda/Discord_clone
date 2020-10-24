@@ -5,6 +5,7 @@ being built using React Redux,Mongoose,ExpressJS, and NodeJS which is fully func
 1.Build frontend response web application
 a.Sidebar
 b.Chat Box
+c.login with google authentication
 2.Configure with firestore
 3.Deploy on firebase
 4.Deprecate firestore
@@ -16,3 +17,4 @@ b.Chat Box
 1.Build frontend response web application
 a.Sidebar
 b.Chat box
+c.login with google authentication
