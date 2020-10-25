@@ -4,6 +4,7 @@
   text-align: center;
   color: gray;
   padding: 10px;
+  border-bottom: 1px solid gray;
 }
 
 .chatHeader__hash {
