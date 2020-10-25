@@ -6,6 +6,7 @@ being built using React Redux,Mongoose,ExpressJS, and NodeJS which is fully func
 a.Sidebar
 b.Chat Box
 c.login with google authentication
+d.Create channel and message functionality
 2.Configure with firestore
 3.Deploy on firebase
 4.Deprecate firestore
@@ -18,3 +19,5 @@ c.login with google authentication
 a.Sidebar
 b.Chat box
 c.login with google authentication
+d.Create channel and message functionality
+2.Configure with firestore
