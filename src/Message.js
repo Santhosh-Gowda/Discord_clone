@@ -10,7 +10,7 @@ const Message = ({ timestamp, message, user }) => {
         <h4>
           {user.displayName}
           <span className="message__timestamp">
-            {new Date(timestamp?.toDate()).toUTCString()}
+            {new Date(parseInt(timestamp)).toDateString()}
           </span>
         </h4>
         <p>{message}</p>
