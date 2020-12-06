@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-### `Please find the prod link here : https://discord-clone-957a6.web.app/ `
+### `Please find the live code [here](https://discord-clone-957a6.web.app) `
 
 ### `Building a Discord Clone Using MERN stack`
 
