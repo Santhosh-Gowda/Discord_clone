@@ -1,20 +1,31 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+### `Please find the prod link here : https://discord-clone-957a6.web.app/ `
+
 ### `Building a Discord Clone Using MERN stack`
 
 -> In this project, I am using the React Redux for developing the Discord.<br />
 -> For the Front-end part, I'm using React Js for building the functional components for Sidebar, Chat Header, Chat body, Chat Input sections.<br />
 -> And for the Icons I'm using the Material UI Icons.<br />
 -> Then for the Back-end part, initially using the Firebase for Authenticating and for cloud storage.<br />
--> Then later I'm using NodeJs powered by ExpressJs and serverless database MongoDb.
+-> Then later I'm using NodeJs powered by ExpressJs and serverless database MongoDb.<br />
+-> Then I'm using Pusher to create powerful realtime features at scale. <br />
 
-### `Steps for building Discord (front-end) `
+### `Steps to build Discord (front-end) `
 
-1. Set-up the React Environment using the below commands.
-2. Building the Sidebar.
-3. Building the Chat section.
-4. Configuring the Firebase for Authentication and for cloud storage.
-5. After completing the development, deploy it in the Firebase.
+1. Building the Sidebar.
+2. Building the Chat section.
+3. Configuring the Firebase for Authentication.
+4. Integration with backend nodeJS.
+5. Pushing the code to deploy and host on the Firebase.
+
+### `Steps to build Discord backend`
+
+1. Create a cluster in mongoDb
+2. Connect the mongoDb using nodeJS
+3. Create a REST API for discord functionalities like Create Channel and Add messages.
+4. Use pusher to add realtime features like quick update upon adding channels and messages.
+5. Deploy backend nodeJS on heroku 
 
 ## Available Scripts
 
